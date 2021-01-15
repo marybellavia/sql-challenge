@@ -3,9 +3,9 @@
 ### Data Engineering
 ![ERD](EntityRelationshipDiagram.PNG)
 
-* For the data engineering portion of this assignment, I examined the accompanying csv's in detail to create an Entity Relationship Diagram (ERD), pictured above.
-* Although the [Quick Database Diagrams](http://www.quickdatabasediagrams.com) web application does allow you to export your ERD into a PostgreSQL table schema, it did so with multiple errors. I fixed those errors when creating my final PostgreSQL schema.
-* Finally, I imported the csv's into pgAdmin.
+* For the data engineering portion of this assignment, I examined the accompanying csv's (located in the data directory) in detail to create an Entity Relationship Diagram (ERD), pictured above.
+* Although the [Quick Database Diagrams](http://www.quickdatabasediagrams.com) web application does allow you to export your ERD into a PostgreSQL table schema, it did so with multiple errors. I fixed those errors when creating my final PostgreSQL schema and ensured the primary and foreign keys were in place for each table.
+* Last, I imported the csv's from the data directory into pgAdmin.
 
 ### Data Analysis
 
