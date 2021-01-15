@@ -1,7 +1,7 @@
 # SQL Homework - Employee Database
 
 ### Data Engineering
-![ERD](EmployeeSQL/EntityRelationshipDiagram.png)
+![ERD](EntityRelationshipDiagram.png)
 
 * For the data engineering portion of this assignment, I examined the accompanying csv's in detail to create an Entity Relationship Diagram (ERD), pictured above.
 * Although the [Quick Database Diagrams](http://www.quickdatabasediagrams.com) web application does allow you to export your ERD into a PostgreSQL table schema, it did so with multiple errors. I fixed those errors when creating my final PostgreSQL schema.
